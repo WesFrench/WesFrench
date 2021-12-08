@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WesFrench
-- 👀 I’m interested in ... programming languages that start with the letter "P". Python, PL/SQL, PHP, Perl.
+- 👀 I’m interested in ... programming languages that start with the letter "P". Python, PL/SQL, PHP, Perl, Pjavascript (the p is silent).
 - 🌱 I’m currently learning ... git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
